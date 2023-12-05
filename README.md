@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=developersajidxyz&label=Profile%20views&color=0e75b6&style=flat" alt="developersajidxyz" /> </p>
 
-- 🌱 I’m currently learning **MongoDB, ExpressJs**
+- 🌱 I’m currently learning more about **MERN STACK**
 
 - 👨‍💻 All of my projects are available at [https://github.com/developersajidxyz/developersajidxyz](https://github.com/developersajidxyz/developersajidxyz)
 
