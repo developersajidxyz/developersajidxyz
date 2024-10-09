@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **https://facebook.com/thesajid.Official**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qMZpmWNcDtFv3XQKrQRT3Bbs-Y0Ma-gL/view?usp=drive_link](https://drive.google.com/file/d/1qMZpmWNcDtFv3XQKrQRT3Bbs-Y0Ma-gL/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume](https://docs.google.com/document/d/1gho4h-dZeYVqZpnRaA99Y_Mf4LAhXGYnWy1cv6nD64U/edit?usp=sharing)
 
 - ⚡ Fun fact **Solving bugs in code makes me feel like a tech detective on the case! 🐞🕵️‍♂️💻**
 
